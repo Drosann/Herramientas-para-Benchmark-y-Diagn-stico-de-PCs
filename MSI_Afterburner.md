@@ -10,7 +10,7 @@ Herramienta esencial para:
 1. Descargar de [MSI.com](https://www.msi.com/page/afterburner)
 2. Ejecutar MSIAfterburnerSetup.exe
 3. Instalar con RivaTuner Statistics Server
-4. ![Interfaz](capturas/afterburner_ui.png](https://storage-asset.msi.com/event/2020/vga/AfterburnerNew/image/afbr.jpg)
+4. ![Interfaz](https://storage-asset.msi.com/event/2020/vga/AfterburnerNew/image/afbr.jpg)
 
 ### 🛠️ Uso Básico
 1. Ajustar deslizadores:
